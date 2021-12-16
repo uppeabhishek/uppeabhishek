@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uppeabhishek
 - 👀 I’m interested in Data Structure and Algorithms, Full Stack Developnment, System Design, Mobile App Development
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Distributed Systems, Advanced Data Structures and Algorithms, Machine learning
 - 📫 How to reach me <a href="https://uppeabhishek.github.io/">Portfolio</a>
 
 <!---
